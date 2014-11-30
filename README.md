@@ -18,7 +18,7 @@ http://ge.tt/api/1/files/4cYXfd52/0/blob?download
 
 Info:
 
-TSreamer allows you to stream torrents, as if you already had downloaded a movie or tv episode.
+TStreamer allows you to stream torrents, as if you already had downloaded a movie or tv episode.
 
 Guide: Open TStreamer -> click the traymenu -> click "Find Movies & series -> copy the torrent link -> TStreamer GUI will appear ->
 Choose your options ->  click play
