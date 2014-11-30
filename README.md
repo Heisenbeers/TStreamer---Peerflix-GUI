@@ -37,3 +37,7 @@ Does it support chromecast? choose the "download option" and the "Save the video
 "Videostream for Google Chromecast™" (Find it on the chrome extension store).
 
 Does it support apple tv? Yes, use the "airplay" option.
+
+
+
+Credits goes to the creator of Peerflix (Mathias Buus). I simply made a GUI for it with some neat features.
